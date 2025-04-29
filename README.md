@@ -15,7 +15,7 @@ Das PlaG enthält u.a. folgende Kernelemente:
 
 ## Unser Ziel
 
-Wir, die **Bundeshausfraktion der Grünen**, möchten das PlaG **kokreativ weiterentwickeln**:  
+Wir, die **[Bundeshausfraktion der Grünen](https://gruene.ch/gruene-im-bundeshaus)**, möchten das PlaG **kokreativ weiterentwickeln**:  
 ➡️ gemeinsam mit der Zivilgesellschaft, Wissenschaft, Wirtschaft und allen Interessierten.  
 
 Unser Ansatz:
@@ -52,7 +52,7 @@ La LPnum comprend notamment les éléments suivants :
 
 ## Notre objectif
 
-Nous, la **délégation parlementaire des Vert·e·s au Parlement fédéral**, souhaitons **co-créer et développer la LPnum** :  
+Nous, la **[délégation parlementaire des Vert·e·s au Parlement fédéral](https://verts.ch/les-verts-au-palais-federal)**, souhaitons **co-créer et développer la LPnum** :  
 ➡️ en collaboration avec la société civile, le monde académique, les milieux économiques et toutes les parties intéressées.
 
 Notre approche :
