@@ -1,9 +1,9 @@
-# Plattformgesetz (PlaG)
+# Bundesgesetz über digitale Plattformen (PlaG)
 
 ## Über das Projekt
 
 Das **PlaG** (Plattformgesetz) ist ein Gesetzesprojekt, das einen sicheren, transparenten und demokratisch verantworteten digitalen Raum in der Schweiz schaffen soll.  
-Es orientiert sich an den Grundsätzen des europäischen **Digital Services Act (DSA)**, geht jedoch in einigen Bereichen weiter – etwa beim Schutz der demokratischen Prozesse, der Kennzeichnung KI-generierter Inhalte und der Bekämpfung von Desinformation.
+Es orientiert sich an den Grundsätzen des europäischen **Digital Services Act (DSA)**, geht jedoch in einigen Bereichen weiter – etwa beim Schutz der demokratischen Prozesse, dem Umgang mit KI-generierter Inhalte und der Bekämpfung von Desinformation.
 
 Das PlaG enthält u.a. folgende Kernelemente:
 - Schutz der Nutzer*innenrechte auf Plattformen
@@ -40,7 +40,7 @@ Wir laden alle ein, sich aktiv einzubringen:
 ## À propos du projet
 
 La **LPnum** (Loi fédérale sur les plateformes numériques) est un projet de loi visant à créer un espace numérique sûr, transparent et démocratique en Suisse.  
-Elle s'inspire des principes du **Digital Services Act (DSA)** européen, tout en allant plus loin dans certains domaines – notamment dans la protection des processus démocratiques, l'identification des contenus générés par l'intelligence artificielle et la lutte contre la désinformation.
+Elle s'inspire des principes du **Digital Services Act (DSA)** européen, tout en allant plus loin dans certains domaines – notamment dans la protection des processus démocratiques, le traitement des contenus générés par l'intelligence artificielle et la lutte contre la désinformation.
 
 La LPnum comprend notamment les éléments suivants :
 - Protection des droits des utilisateur·trice·s sur les plateformes
