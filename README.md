@@ -2,7 +2,7 @@
 
 ## Über das Projekt
 
-Das **PlaG** (Plattformgesetz) ist ein Gesetzesprojekt, das einen sicheren, transparenten und demokratisch verantworteten digitalen Raum in der Schweiz schaffen soll.  
+Das **PlaG** (Bundesgesetz über digitale Plattformen, kur Plattformgesetz) ist ein Gesetzesprojekt, das einen sicheren, transparenten und demokratisch verantworteten digitalen Raum in der Schweiz schaffen soll.  
 Es orientiert sich an den Grundsätzen des europäischen **Digital Services Act (DSA)**, geht jedoch in einigen Bereichen weiter – etwa beim Schutz der demokratischen Prozesse, dem Umgang mit KI-generierter Inhalte und der Bekämpfung von Desinformation.
 
 Das PlaG enthält u.a. folgende Kernelemente:
